@@ -59,6 +59,7 @@ echo " "
 echo "$f Ab ye start krne ke liye shortcut command install ho rha hai $f"
 echo " "
 echo " "
+cd ..
 cp fish /data/data/com.termux/files/usr/bin
 chmod 700 /data/data/com.termux/files/usr/bin/fish
 echo " "
@@ -68,3 +69,4 @@ echo " "
 echo "$h Ye type kar ke run kro ho jayega run $h"
 echo " "
 echo "$i fish $i"
+cd ..
